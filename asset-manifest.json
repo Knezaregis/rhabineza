@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rhabineza/static/css/main.e270f139.chunk.css",
+    "main.js": "/rhabineza/static/js/main.6c96fbec.chunk.js",
+    "main.js.map": "/rhabineza/static/js/main.6c96fbec.chunk.js.map",
+    "runtime-main.js": "/rhabineza/static/js/runtime-main.04e1dfc2.js",
+    "runtime-main.js.map": "/rhabineza/static/js/runtime-main.04e1dfc2.js.map",
+    "static/css/2.67123b20.chunk.css": "/rhabineza/static/css/2.67123b20.chunk.css",
+    "static/js/2.37f204d3.chunk.js": "/rhabineza/static/js/2.37f204d3.chunk.js",
+    "static/js/2.37f204d3.chunk.js.map": "/rhabineza/static/js/2.37f204d3.chunk.js.map",
+    "index.html": "/rhabineza/index.html",
+    "precache-manifest.88b65be7d28a3c4303668e5393033cef.js": "/rhabineza/precache-manifest.88b65be7d28a3c4303668e5393033cef.js",
+    "service-worker.js": "/rhabineza/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/rhabineza/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.e270f139.chunk.css.map": "/rhabineza/static/css/main.e270f139.chunk.css.map",
+    "static/js/2.37f204d3.chunk.js.LICENSE.txt": "/rhabineza/static/js/2.37f204d3.chunk.js.LICENSE.txt",
+    "static/media/Picture1.png": "/rhabineza/static/media/Picture1.a7277bf4.png",
+    "static/media/rwanda_highlights.jpg": "/rhabineza/static/media/rwanda_highlights.e65e023a.jpg",
+    "static/media/sergeyzolkin.jpg": "/rhabineza/static/media/sergeyzolkin.a60f3076.jpg",
+    "static/media/wallpapercover.jpg": "/rhabineza/static/media/wallpapercover.62fc268f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e1dfc2.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.37f204d3.chunk.js",
+    "static/css/main.e270f139.chunk.css",
+    "static/js/main.6c96fbec.chunk.js"
+  ]
+}
